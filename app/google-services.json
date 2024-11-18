@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276111557853",
+    "project_id": "notificationtesting-b550f",
+    "storage_bucket": "notificationtesting-b550f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276111557853:android:353fe17c6a34e9f5140734",
+        "android_client_info": {
+          "package_name": "com.example.uitesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXBngDSAWYPB-FyOx5A1XtnHzf-V9Ijc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+Documents:
+https://developer.android.com/develop/ui/views/layout/activity-embedding
+
+Use case:
+- Adapting with large screen device, 2 activities can show on the same screen.
